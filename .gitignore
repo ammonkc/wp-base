@@ -1,0 +1,11 @@
+/content/uploads/
+/content/plugins/
+wp-config-local.php
+Capfile
+/config
+/lib
+.vagrant
+Vagrantfile
+*.sublime-*
+*.sql
+*.psd
